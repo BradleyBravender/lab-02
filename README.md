@@ -2,12 +2,15 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Bradley Bravender`
+- **CCID:** `bsbraven`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+I referred to ChatGPT to refresh/teach myself how to layout all the views with
+the attributes I desired in `activity_main.xml`, as well as how to implement 
+the logic that I needed for these views to interact properly in the `onCreate`
+method in `MainActivity.java`.
 
 ## Verbal Collaboration
 
